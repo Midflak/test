@@ -2,5 +2,7 @@ Green.
 Blue.
 Red.
 Orange.
+Black.
+And pink.
 
 These are the colors of the rainbow.
