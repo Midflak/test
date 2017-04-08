@@ -2,6 +2,6 @@ Green.
 Blue.
 Red.
 Orange.
-Horse.
+Cyberpunk.
 
 These are the colors of the rainbow.
