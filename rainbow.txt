@@ -2,5 +2,6 @@ Green.
 Blue.
 Red.
 Orange.
+Horse.
 
 These are the colors of the rainbow.
